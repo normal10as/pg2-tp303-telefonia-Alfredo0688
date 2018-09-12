@@ -1,0 +1,4 @@
+C:\Users\Alfredo\source\repos\Telefonia\EntidadesTest\obj\Debug\TestEntidades.vbprojAssemblyReference.cache
+C:\Users\Alfredo\source\repos\Telefonia\EntidadesTest\obj\Debug\EntidadesTest.Resources.resources
+C:\Users\Alfredo\source\repos\Telefonia\EntidadesTest\obj\Debug\TestEntidades.vbproj.GenerateResource.cache
+C:\Users\Alfredo\source\repos\Telefonia\EntidadesTest\obj\Debug\TestEntidades.vbproj.CoreCompileInputs.cache
