@@ -16,7 +16,10 @@
             Return _apellido
         End Get
         Set(value As String)
-            _apellido = value
+            If value <> "" And value.Length <= 30 Then
+                _apellido = value
+            End If
+
         End Set
     End Property
 
@@ -25,7 +28,10 @@
             Return _nombre
         End Get
         Set(value As String)
-            _nombre = value
+            If value <> "" And value.Length <= 50 Then
+                _nombre = value
+            End If
+
         End Set
     End Property
 

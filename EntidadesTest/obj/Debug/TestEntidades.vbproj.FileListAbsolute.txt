@@ -1,4 +1,15 @@
+C:\Users\Alfredo\source\repos\Telefonia\EntidadesTest\bin\Debug\EntidadesTest.exe.config
+C:\Users\Alfredo\source\repos\Telefonia\EntidadesTest\bin\Debug\EntidadesTest.exe
+C:\Users\Alfredo\source\repos\Telefonia\EntidadesTest\bin\Debug\EntidadesTest.pdb
+C:\Users\Alfredo\source\repos\Telefonia\EntidadesTest\bin\Debug\EntidadesTest.xml
+C:\Users\Alfredo\source\repos\Telefonia\EntidadesTest\bin\Debug\TelefoniaEntidades.dll
+C:\Users\Alfredo\source\repos\Telefonia\EntidadesTest\bin\Debug\TelefoniaEntidades.pdb
+C:\Users\Alfredo\source\repos\Telefonia\EntidadesTest\bin\Debug\TelefoniaEntidades.xml
 C:\Users\Alfredo\source\repos\Telefonia\EntidadesTest\obj\Debug\TestEntidades.vbprojAssemblyReference.cache
 C:\Users\Alfredo\source\repos\Telefonia\EntidadesTest\obj\Debug\EntidadesTest.Resources.resources
 C:\Users\Alfredo\source\repos\Telefonia\EntidadesTest\obj\Debug\TestEntidades.vbproj.GenerateResource.cache
 C:\Users\Alfredo\source\repos\Telefonia\EntidadesTest\obj\Debug\TestEntidades.vbproj.CoreCompileInputs.cache
+C:\Users\Alfredo\source\repos\Telefonia\EntidadesTest\obj\Debug\TestEntidades.vbproj.CopyComplete
+C:\Users\Alfredo\source\repos\Telefonia\EntidadesTest\obj\Debug\EntidadesTest.exe
+C:\Users\Alfredo\source\repos\Telefonia\EntidadesTest\obj\Debug\EntidadesTest.xml
+C:\Users\Alfredo\source\repos\Telefonia\EntidadesTest\obj\Debug\EntidadesTest.pdb

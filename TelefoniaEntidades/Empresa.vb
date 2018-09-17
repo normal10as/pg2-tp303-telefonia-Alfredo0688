@@ -14,7 +14,10 @@
             Return _razonSocial
         End Get
         Set(value As String)
-            _razonSocial = value
+            If value <> "" And value.Length <= 80 Then
+                _razonSocial = value
+            End If
+
         End Set
     End Property
 
@@ -23,7 +26,10 @@
             Return _cuit
         End Get
         Set(value As String)
-            _cuit = value
+            If value <> "" And value.Length <= 15 Then
+                _cuit = value
+            End If
+
         End Set
     End Property
 

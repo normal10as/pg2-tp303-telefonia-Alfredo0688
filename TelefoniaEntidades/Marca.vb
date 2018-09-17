@@ -11,7 +11,7 @@
             Return _nombre
         End Get
         Set(value As String)
-            If value.Length <= 30 Then
+            If value <> "" And value.Length <= 30 Then
                 _nombre = value
             End If
         End Set
